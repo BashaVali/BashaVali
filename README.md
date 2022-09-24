@@ -1,4 +1,4 @@
-# Basha<br>
+<br>
   <img src="https://img.freepik.com/free-vector/blue-technology-digital-banner-design_1017-32257.jpg" width="2000" height="200">
   <br>
 <h1 align="center">Hi 👋, I'm BashaVali</h1>
