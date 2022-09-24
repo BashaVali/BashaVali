@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/bashavali7" target="blank"><img src="https://img.shields.io/twitter/follow/bashavali7?logo=twitter&style=for-the-badge" alt="bashavali7" /></a> </p>
 
-- 🔭 I’m currently working on One Point One Solutions Pvt Ltd [https://www.1point1.in/](https://www.1point1.in/)
+- 🔭 I’m currently working on One Point One Solutions Pvt Ltd [https://www.1point1.in/](https://www.1point1.in/) & Have 9 Months Of Experience.
 
 - 🌱 I’m currently learning **Shell Scripting , Courses..**
 
@@ -18,7 +18,20 @@
 
 - 📫 How to reach me **bashavali222@gmail.com**
 
-- 📄 Know about my experiences [https://uploadnow.io/files/PL4RBhJ
+- 📄 Know about my experiences <br>
+One Point One Solutions, December 2021 - Present
+Customer Response Executive :During my position as a Customer Response Executive I
+ve completed many tasks and projects that provide valuable data for the leadership team
+in my company, for example , Take ownership of customer issues
+Troubleshoot problems and see them through to resolution
+Escalate unresolved issues to the appropriate internal teams
+Collect prompt and accurate feedback from customers
+Document knowledge in the form of solution articles
+Master the use of a helpdesk software<br>
+- 🔭PROJECTS <br>
+A Developer Centered Bug Prediction Model, January 2019 - April 2019
+It is a project work completed in our college It is a Bug prediction technique is used to
+identify areas of software systems that are more likely to contain bugs<br>
 
 - ⚡ Fun fact **I think I'm Funny As well As Hard worker And Keen To learn New Technologies**
 
