@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **java, c , sql ,Data Structures ,Html ,Xml**
 
-- 📫 How to reach me **bashavali222@gmail.com**
+- 📫 How to reach me **bashavali222@gmail.com , Mobile Number : 9966576672**
 
 - 📄 Know about my experiences <br>
 One Point One Solutions, December 2021 - Present
