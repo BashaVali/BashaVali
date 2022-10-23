@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on One Point One Solutions Pvt Ltd [https://www.1point1.in/](https://www.1point1.in/) & Have 9 Months Of Experience.
 
-- 🌱 I’m currently learning **Shell Scripting , Courses..**
+- 🌱 I’m currently learning **Shell Scripting , Dot Net courses etc..**
 
 - 💬 Ask me about **java, c , sql ,Data Structures ,Html ,Xml**
 
