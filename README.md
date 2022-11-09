@@ -6,13 +6,13 @@
 <image align="right" alt="coding" width=400" src="https://static01.nyt.com/images/2020/01/01/business/01Techfix-print/01Techfix-print-superJumbo.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bashavali&label=Profile%20views&color=0e75b6&style=flat" alt="bashavali" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bashavali" alt="bashavali" /></a> </p>
+<p align="left"> <a href="https://github.com/BashaVali"><img src="https://github-profile-trophy.vercel.app/?username=bashavali" alt="bashavali" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/bashavali7" target="blank"><img src="https://img.shields.io/twitter/follow/bashavali7?logo=twitter&style=for-the-badge" alt="bashavali7" /></a> </p>
 
 - 🔭 I’m currently working on One Point One Solutions Pvt Ltd [https://www.1point1.in/](https://www.1point1.in/) & Have 9 Months Of Experience.
 
-- 🌱 I’m currently learning **Shell Scripting , Dot Net courses etc..**
+- 🌱 I’m currently learning **Shell Scripting , C# . Dot Net course etc..**
 
 - 💬 Ask me about **java, c , sql ,Data Structures ,Html ,Xml**
 
